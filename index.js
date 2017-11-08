@@ -4,7 +4,7 @@
  * Copyright(c) 2013 Roman Shtylman
  * Copyright(c) 2014-2015 Douglas Christopher Wilson
  * MIT Licensed
- * 123
+ * 12322
  */
 
 'use strict';
